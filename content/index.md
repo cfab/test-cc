@@ -3,7 +3,7 @@ title: Home
 layout: custom
 content_blocks:
   - _bookshop_name: home/hero
-    title: Beautiful email campaigns !!!
+    title: Beautiful email campaigns !!!!
     description: >-
       With Sendit, you can quickly create beautiful rich emails that capture a
       reader's attention, engage them, and convert them into customers.
