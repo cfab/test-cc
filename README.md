@@ -1,4 +1,4 @@
-# Sendit
+# Sendit from cc
 
 Sendit is a polished marketing website template for Nuxt. Browse through a [live demo](https://fleek-onion.cloudvent.net/).
 
